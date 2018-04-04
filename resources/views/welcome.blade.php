@@ -42,7 +42,7 @@
         <div class="container">
             <div class="content">
                 <div class="title">Alert Systems International</div>
-                <div class="title">Website is under construction, please visit us again soon! If you have any questions please call us at 978-955-8442.</div>
+                <div class="title2">Website is under construction, please visit us again soon! If you have any questions please call us at 978-955-8442.</div>
             </div>
         </div>
     </body>
