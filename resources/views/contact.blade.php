@@ -11,8 +11,8 @@
 				<p>Edmonton Office: 1-780-299-1174 / 1-780-908-1381</p>
 				<p>Boston Office: 1-978-893-6347</p>
 				<label>Email:</label><br>
-				Sales: {{Html::mailto('sales@alertsystems.ca')}}<br>
-				Support: {{Html::mailto('support@alertsystems.ca')}}</p>
+				Sales: <a href="mailto:sales@alertsystems.ca">sales@alertsystems.ca</a><br>
+				Support: <a href="mailto:support@alertsystems.ca">support@alertsystems.ca</a></p>
 	        	<hr>
 		        <label>Head Office:</label>
 				<p>516 Wiseman Lane NW<br>
