@@ -2,7 +2,7 @@
 <div class="panel panel-success">
 
 	<div class="panel-heading text-center">
-		<h4><strong>Request a Quote or Send an Inquiry</strong></h4>
+		<h4><strong>PLEASE Request a Quote or Send an Inquiry</strong></h4>
 	</div>
 
 	<div class="panel-body">
